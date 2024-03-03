@@ -8,7 +8,7 @@
 
 ## About
 
-This is my first raw php project that I developed in 2017. Design not good but this project helped me to be confident about programming. 
+This is my first raw php project that I developed in 2017. Design not good but this project helped me to be confident about programming.
 
 ### Features
 
@@ -23,4 +23,4 @@ This is my first raw php project that I developed in 2017. Design not good but t
 
 ---
 
-### If you like this project please give a ⭐ on this repository
+### If you like this project please give a ⭐ on this repository.
